@@ -1,0 +1,4 @@
+# Package Manager Selection
+ro.pm.installer=com.android.packageinstaller
+ro.pm.uninstaller=com.android.packageinstaller
+ro.pm.verifier=null
