@@ -9,5 +9,5 @@ include device/generic/goldfish/board/BoardConfigCommon.mk
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 576716800
 
 
-TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
-TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+TARGET_SYSTEM_PROP += device/tharow/angkorwat/system.prop
+TARGET_VENDOR_PROP += device/tharow/angkorwat/vendor.prop
